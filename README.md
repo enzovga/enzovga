@@ -42,8 +42,7 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Enzo Grozdas](https://img.shields.io/badge/-EnzoGrozdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzogrozdas)]((https://www.linkedin.com/in/enzogrozdas))
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-EnzoGrozdas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzogrozdas)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-enzo.grozdas1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzo.grozdas1@gmail.com)](mailto:SEU-EMAIL)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/enzovga?label=follow&style=social)](github.com/enzovga)
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/enzogrozdas)
