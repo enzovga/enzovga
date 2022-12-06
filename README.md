@@ -44,6 +44,6 @@
 
 [![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-enzo.grozdas1@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:enzo.grozdas1@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/enzovga?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/enzovga?label=follow&style=social)](github.com/enzovga)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/enzogrozdas)
