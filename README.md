@@ -2,7 +2,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando Ciência da Computação no <a href="[link da sua faculdade](https://www.uscs.edu.br/)">Universidade Municipal de São Caetano do Sul</a>.
+- 🎓 &nbsp; Estudando Ciência da Computação no <a href="https://www.uscs.edu.br">Universidade Municipal de São Caetano do Sul</a>.
 - 💼 &nbsp; Trabalhando como Estagiário Full Stack na <a href="https://br.linkedin.com/company/alavtutti">A Lav Tutti</a>
 - 🌱 &nbsp; Aprendendo mais sobre React e React Native.
 
