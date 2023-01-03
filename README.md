@@ -3,7 +3,6 @@
 
 - 🤔 &nbsp; Desenvolvedor Web/Desktop adepto em todos os estágios de desenvolvimento de aplicativos.
 - 🎓 &nbsp; Estudando Ciência da Computação na <a href="https://www.linkedin.com/school/uscsoficial/about">Universidade Municipal de São Caetano do Sul</a>.
-- 💼 &nbsp; Trabalhando como Estagiário Full Stack na <a href="https://br.linkedin.com/company/alavtutti">A Lav Tutti</a>
 - 🌱 &nbsp; Aprendendo mais sobre React e React Native.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
