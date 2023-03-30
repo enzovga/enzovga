@@ -16,18 +16,16 @@
   ![PHP](https://img.shields.io/badge/PHP-333333?style=flat&logo=php)
   ![NodeJS](https://img.shields.io/badge/Node.js-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![.NET](https://img.shields.io/badge/.NET-333333?style=flat&logo=.net)
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=c)
+  ![C#](https://img.shields.io/badge/C%23-333333?style=flat&logo=c-sharp)
 
 **Ferramentas de Desenvolvimento**
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
   ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=007ACC)
 
